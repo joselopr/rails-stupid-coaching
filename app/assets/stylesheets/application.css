@@ -12,4 +12,12 @@
  *
  *= require_tree .
  *= require_self
- */
+ **/
+
+
+.card-body {
+  background-color: gray;
+  font-family: Open Sans;
+  box-shadow: 5px,
+
+}
